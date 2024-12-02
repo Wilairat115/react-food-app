@@ -3,7 +3,7 @@ header .navbar {
   position: absolute;
   width: 100%;
   background-color: transparent;
-  z-index: 1000;
+  z-index: 1000; 
   box-shadow: 0 2px 3px rgba(96, 96, 96, 0.1);
   animation: stickyTransition 0.5s both;
 }
